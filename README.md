@@ -44,7 +44,11 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Tutores
 - Material
 - Foro (yahoo respuestas)
+  - seccionado por grado académico (educación básica primaria y secundaria) 
+    -seccionado por materias
 - Inicio login/sign up
 - Buscador  de la  página para plabras clave
 - Enlaces a vídeos sobre el tema
-- 
+
+- seccionado por materias
+-  
