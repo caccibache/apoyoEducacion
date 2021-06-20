@@ -1,4 +1,4 @@
-# apoyoPsicosocial
+# apoyoEducacion
 Proyecto Innosocial: aplicación de apoyo psicosocial.
 ## Google Forms
 ###### Objetivos
@@ -49,6 +49,9 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Inicio login/sign up
 - Buscador  de la  página para plabras clave
 - Enlaces a vídeos sobre el tema
-
-- seccionado por materias
--  
+- 
+- List Box seccionado por materias
+- How To uso de nuevas tecnologias (Zoom Meet Teams Forms)
+- Tutotoriales para Maestros (asimilacion Configuracion y uso de Tecnologias)
+- Como mejorar la experiencia de usuario para saca el maximo provecho de recursos a su alcance
+- Tecnicas de Estudio
