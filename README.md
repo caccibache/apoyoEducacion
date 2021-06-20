@@ -1,5 +1,15 @@
 # apoyoEducacion
 Proyecto Innosocial: aplicación de apoyo psicosocial.
+
+## Propuesta nombre:
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+
 ## Google Forms
 ###### Objetivos
 - ayudar a que las tareas se hagan más rápido
