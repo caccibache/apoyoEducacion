@@ -45,3 +45,6 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Material
 - Foro (yahoo respuestas)
 - Inicio login/sign up
+- Buscador  de la  página para plabras clave
+- Enlaces a vídeos sobre el tema
+- 
