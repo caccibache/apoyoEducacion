@@ -55,3 +55,12 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Tutotoriales para Maestros (asimilacion Configuracion y uso de Tecnologias)
 - Como mejorar la experiencia de usuario para saca el maximo provecho de recursos a su alcance
 - Tecnicas de Estudio
+
+## Apariencia
+
+- Practico, poco desplazamiento para llegar a las secciones
+- haciendo enfasis en la consulta de dudas respecto a tareas 
+- que comunique seguridad y tranquilidad, colores azul palido y blanco
+- animal: un buho, suele relacionarse con la educacion
+- tamaño de tipografia dinamica
+- transiciones suaves
