@@ -21,6 +21,7 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Apartados de muchas materias, no solo las comunes, sino incluyendo asignaturas de preparatoria e incluso de universidad, para que así todos tengan la posibilidad de encontrar ayuda en esta app.
 - Para ello se incluiría a diversos trabajadores, los cuales tengan disposición de tiempo para impartir mini clases.
 - Foro de dudas con formato claro dirigido a padres de familia
+- Foro de clases para temas específicos con profesores de la materia.
 
 ## Estructura WebbAPP
 ###### Features:
@@ -29,8 +30,9 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Organizador
 - Busqueda de tutores/profesores: Por materia, edad, curso, modalidad (presencial y/u online) etc.
   -   Sección principal que implemente informacion de tecnicas basicas de aprendizaje, como fomento a la lectura, a la invetigación.
-  -   Seeción de colaboradores (Personas que tengan interes de agregar material o enseñar cualquier tipo de tecnicas o ayuda).
+  -   Sección de colaboradores (Personas que tengan interes de agregar material o enseñar cualquier tipo de tecnicas o ayuda).
   -   Sección de preguntas y respuestas
+- Sección de ¿Que tema te gustaría saber más?
 
 ##### Imperativos legales:
 - Términos de uso
