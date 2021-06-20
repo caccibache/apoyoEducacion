@@ -30,10 +30,11 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Busqueda de tutores/profesores: Por materia, edad, curso, modalidad (presencial y/u online) etc.
   -   Sección principal que implemente informacion de tecnicas basicas de aprendizaje, como fomento a la lectura, a la invetigación.
   -   Seeción de colaboradores (Personas que tengan interes de agregar material o enseñar cualquier tipo de tecnicas o ayuda).
+  -   Sección de preguntas y respuestas
 
 ##### Imperativos legales:
 - Términos de uso
-- POlíticas de cookies
+- Políticas de cookies
 - Políticas de privacidad
 
 ##### Estructura página:
@@ -41,3 +42,4 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Tutores
 - Material
 - Foro (yahoo respuestas)
+- Inicio login/sign up
