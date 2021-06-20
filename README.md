@@ -28,6 +28,8 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - Tips para educación line
 - Organizador
 - Busqueda de tutores/profesores: Por materia, edad, curso, modalidad (presencial y/u online) etc.
+  -   Sección principal que implemente informacion de tecnicas basicas de aprendizaje, como fomento a la lectura, a la invetigación.
+  -   Seeción de colaboradores (Personas que tengan interes de agregar material o enseñar cualquier tipo de tecnicas o ayuda).
 
 ##### Imperativos legales:
 - Términos de uso
