@@ -74,3 +74,5 @@ Proyecto Innosocial: aplicación de apoyo psicosocial.
 - animal: un buho, suele relacionarse con la educacion
 - tamaño de tipografia dinamica
 - transiciones suaves
+
+holi
